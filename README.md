@@ -1,10 +1,20 @@
 # NumPy Practice 🧮
 
-Welcome to my NumPy learning repository!
+A hands-on repository documenting my journey of learning **NumPy**, a fundamental Python library for numerical computing.
 
-I am learning Python libraries as part of my journey toward becoming an AI Engineer.
+I'm a BTech Artificial Intelligence & Data Science student building strong programming foundations for **Data Science, Machine Learning, and AI Engineering**.
 
-## 📚 Contents
+## 📚 Topics Covered
+
+- NumPy array creation and initialization
+- Array indexing and slicing
+- Array reshaping and manipulation
+- Mathematical and statistical operations
+- Aggregation using `sum()`, `mean()`, and `average()`
+- Working with rows, columns, and axes
+- Vector operations and linear algebra basics
+
+## 📂 Repository Structure
 
 - `phase-1.ipynb` — NumPy practice: Phase 1
 - `phase-2.ipynb` — NumPy practice: Phase 2
@@ -14,8 +24,8 @@ I am learning Python libraries as part of my journey toward becoming an AI Engin
 ## 🛠️ Requirements
 
 - Python 3
-- Jupyter Notebook or JupyterLab
 - NumPy
+- Jupyter Notebook or JupyterLab
 
 Install NumPy:
 
@@ -25,12 +35,16 @@ pip install numpy
 
 ## ▶️ How to Run
 
-1. Download or clone this repository.
-2. Open a notebook in Jupyter.
-3. Run the cells from top to bottom.
+1. Clone or download this repository.
+2. Open the project in Jupyter Notebook or JupyterLab.
+3. Open any notebook and run the cells in order.
 
-## 🎯 Goal
+## 🎯 Learning Goals
 
-To improve my NumPy skills through hands-on coding and prepare for Data Science, Machine Learning, and AI Engineering.
+- Strengthen my Python and numerical computing skills.
+- Practise solving problems using NumPy arrays.
+- Build a foundation for Data Science, Machine Learning, and AI projects.
 
-This repository documents my learning journey and will be updated as I learn more.
+This repository is a work in progress and will grow as I continue learning and building practical projects.
+
+**Skills:** Python · NumPy · Jupyter Notebook
